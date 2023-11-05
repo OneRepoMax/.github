@@ -26,5 +26,11 @@ Integration with PayPal
 ![image](https://github.com/OneRepoMax/.github/assets/89132892/73dc19d9-21dc-4543-81ca-7c5fbdf929aa)
 Booking Feature
 
+![image](https://github.com/OneRepoMax/.github/assets/89132892/7e8cf2be-60fc-4ced-891a-01b6907ab59a)
+Analytics Dashboard for Admin
+
+![image](https://github.com/OneRepoMax/.github/assets/89132892/c086e400-00d2-4177-96b8-09098cdbfb91)
+GAI ChatBot for Clients
+
 ## Cloud Architecture
 ![TSY IABS Cloud Architecture Diagram](https://github.com/OneRepoMax/.github/assets/89132892/ae3b8cc7-c287-4d36-92ae-f0349a736a68)
