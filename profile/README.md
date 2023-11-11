@@ -6,6 +6,8 @@ Our mission at OneRepoMax is to transform the fitness landscape by creating a te
 
 Our vision is to be at the forefront of fitness technology, setting new standards for gym experiences. We aspire to create a global community of fitness enthusiasts who rely on our integrated portal to optimize their workouts, track their progress, and connect with like-minded individuals. Through continuous innovation and a commitment to excellence, we aim to reshape the way people approach fitness, making it more engaging, personalized, and effective.
 
+### Video Trailer
+https://github.com/OneRepoMax/.github/assets/89132892/24dc2df5-e2bd-4987-bf06-1052f434ec2c
 ### Features
 ![image](https://github.com/OneRepoMax/.github/assets/89132892/6cf81dac-a9a4-4f83-9558-44455f826fed)
 Login Page
@@ -33,4 +35,4 @@ Analytics Dashboard for Admin
 GAI ChatBot for Clients
 
 ## Cloud Architecture
-![TSY IABS Cloud Architecture Diagram](https://github.com/OneRepoMax/.github/assets/89132892/ae3b8cc7-c287-4d36-92ae-f0349a736a68)
+![TSY IABS Cloud Architecture Diagram (2)](https://github.com/OneRepoMax/.github/assets/89132892/97a687d9-d4f0-4d28-831c-b71e1a2453f5)
